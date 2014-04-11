@@ -167,7 +167,7 @@ header {
     font-size: 1.2em;
     color: #999;
     display: inline-block;
-    line-height: 1.2rem; }
+    line-height: 1.2em; }
   header br {
     display: none; }
 
@@ -186,7 +186,8 @@ header {
     header .subhead {
       font-size: 1.6em; }
     header br {
-      display: block; } }
+      display: block;
+      line-height: 0; } }
 
 main {
   position: relative;
